@@ -1,0 +1,7 @@
+fastapi==0.116.1
+pydantic==2.11.7
+python-dotenv==1.1.1
+SQLAlchemy==2.0.42
+google-cloud-alloydb-connector==1.9.0
+pg8000==1.31.4
+uvicorn==0.35.0

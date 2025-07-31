@@ -1,0 +1,16 @@
+# Environment variables
+.env
+venv/
+
+# Python
+__pycache__/
+*pycache*/
+*.pyc
+.pytest_cache/
+htmlcov/
+
+# VSCode
+.vscode/
+
+# Gemini
+.gemini/
