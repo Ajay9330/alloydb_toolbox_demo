@@ -8,14 +8,14 @@ This is a FastAPI application for managing a hotel, using an AlloyDB database.
 
     Using HTTPS:
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/Ajay9330/alloydb_toolbox_demo.git
+    cd alloydb_toolbox_demo
     ```
 
     Using SSH:
     ```bash
-    git clone git@github.com:your-username/your-repository-name.git
-    cd your-repository-name
+    git clone git@github.com:Ajay9330/alloydb_toolbox_demo.git
+    cd alloydb_toolbox_demo
     ```
 
 2.  **Create a virtual environment:**
