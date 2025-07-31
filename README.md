@@ -2,6 +2,12 @@
 
 This is a FastAPI application for managing a hotel, using an AlloyDB database.
 
+## Architecture
+
+<div align="center">
+  <img src="architecture.png" alt="Application Architecture" height="700">
+</div>
+
 ## Setup
 
 1.  **Clone the repository:**
